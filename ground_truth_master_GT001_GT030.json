@@ -1,0 +1,3133 @@
+[
+  {
+    "file_id": "GT-001",
+    "file_name": "AHD-0425-PA-0007719_E-REPORTS_250427_2032_E_pdf_page_4.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Shree Diagnostic Centre",
+    "hospital": "Shree Hospital IPD",
+    "report_section": "CRP REPORT",
+    "report_date": "REDACTED",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "C-Reactive Protein (CRP)",
+        "loinc_concept": "CRP",
+        "result": "267.8",
+        "flag": "H",
+        "unit": "mg/L",
+        "reference_range_low": "0",
+        "reference_range_high": "5",
+        "reference_display": "0-5 mg/L",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Method: Immunoturbidimetric. Age-specific ranges noted: Adults <5, Newborn up to 3 weeks <4.1, Infants and children <2.8 mg/L"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY"
+  },
+  {
+    "file_id": "GT-002",
+    "file_name": "BLR-0425-PA-0042563_Q-1745819430717VasanthaKumarilab_250428_1123_F_pdf_page_1.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "UNKNOWN (digital hospital LIS printout)",
+    "report_section": "BIOCHEMISTRY — MULTI-PANEL",
+    "report_date": "23/04/2025",
+    "specimen": "Serum (multiple collections)",
+    "findings": [
+      {
+        "test_name": "Post HD BUN (Urease/GLDH)",
+        "loinc_concept": "BUN",
+        "result": "2.10",
+        "flag": "#",
+        "unit": "mg/dl",
+        "reference_range_low": "6.00",
+        "reference_range_high": "20.00",
+        "reference_display": "[6.00-20.00]",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Collection Date redacted 12:07. Authorised by Dr Roopa Murgod MD (Biochem) on 23/04/2025 at 16:55"
+      },
+      {
+        "test_name": "Serum Albumin (BCG)",
+        "loinc_concept": "ALBUMIN",
+        "result": "2.4",
+        "flag": "#",
+        "unit": "g/dl",
+        "reference_range_low": "3.5",
+        "reference_range_high": "5.2",
+        "reference_display": "[3.5-5.2]",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Collection Date redacted 07:54. Authorised by Dr Hemantha Kumara D.S on 23/04/2025"
+      },
+      {
+        "test_name": "Blood Urea Nitrogen (Urease/GLDH)",
+        "loinc_concept": "BUN",
+        "result": "5.50",
+        "flag": "#",
+        "unit": "mg/dl",
+        "reference_range_low": "6.00",
+        "reference_range_high": "20.00",
+        "reference_display": "[6.00-20.00]",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Collection Date redacted 07:54. Method: Calculated"
+      },
+      {
+        "test_name": "Serum Calcium (Arsenazo III)",
+        "loinc_concept": "CALCIUM",
+        "result": "7.67",
+        "flag": "#",
+        "unit": "mg/dl",
+        "reference_range_low": "8.60",
+        "reference_range_high": "10.30",
+        "reference_display": "[8.60-10.30]",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Collection Date redacted 07:54"
+      },
+      {
+        "test_name": "Serum Creatinine (Kinetic mod. Jaffe)",
+        "loinc_concept": "CREATININE",
+        "result": "3.33",
+        "flag": "#",
+        "unit": "mg/dl",
+        "reference_range_low": "0.60",
+        "reference_range_high": "1.40",
+        "reference_display": "[0.60-1.40]",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Collection Date redacted 07:54"
+      },
+      {
+        "test_name": "eGFR (Calculated)",
+        "loinc_concept": "eGFR",
+        "result": "13.0",
+        "flag": "#",
+        "unit": "ml/min/1.73sq.m",
+        "reference_range_low": "60",
+        "reference_range_high": null,
+        "reference_display": "[>60.0]",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "Severely reduced. CKD-EPI 2009 equation. Not applicable below 18 years."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Patient on haemodialysis (HD). All values critically deranged — likely advanced CKD/ESRD patient."
+  },
+  {
+    "file_id": "GT-003",
+    "file_name": "BLR-0425-PA-0042578_F-1745748343928ICPNOTESOFJAYALAKSHMI_250427_1542_G_pdf_page_11.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Agilus Diagnostics Ltd (Fortis Hospital)",
+    "hospital": "Fortis Hospital Nagarbhavi, Bangalore",
+    "report_section": "CBC PLATELETS & DIFF BLOOD — HAEMATOLOGY",
+    "report_date": "27/04/2025",
+    "specimen": "Blood",
+    "findings": [
+      {
+        "test_name": "White Blood Cell (WBC) Count",
+        "loinc_concept": "WBC",
+        "result": "5.40",
+        "unit": "thou/µL",
+        "reference_range_low": "4.0",
+        "reference_range_high": "10.0",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Red Blood Cell (RBC) Count",
+        "loinc_concept": "RBC",
+        "result": "4.21",
+        "unit": "mil/µL",
+        "reference_range_low": "3.8",
+        "reference_range_high": "4.8",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Hemoglobin (HB)",
+        "loinc_concept": "HEMOGLOBIN",
+        "result": "11.7",
+        "flag": "Low",
+        "unit": "g/dL",
+        "reference_range_low": "12.0",
+        "reference_range_high": "15.0",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Hematocrit (PCV)",
+        "loinc_concept": "HEMATOCRIT",
+        "result": "36.4",
+        "unit": "%",
+        "reference_range_low": "36",
+        "reference_range_high": "46",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mean Corpuscular Volume (MCV)",
+        "loinc_concept": "MCV",
+        "result": "87.0",
+        "unit": "fL",
+        "reference_range_low": "83",
+        "reference_range_high": "101",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mean Corpuscular Hemoglobin (MCH)",
+        "loinc_concept": "MCH",
+        "result": "27.9",
+        "unit": "pg",
+        "reference_range_low": "27.0",
+        "reference_range_high": "32.0",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+        "loinc_concept": "MCHC",
+        "result": "32.2",
+        "unit": "g/dL",
+        "reference_range_low": "31.5",
+        "reference_range_high": "34.5",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mentzer Index",
+        "loinc_concept": "MENTZER_INDEX",
+        "result": "20.7",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null,
+        "notes": "No reference range printed on this page"
+      },
+      {
+        "test_name": "Mean Platelet Volume (MPV)",
+        "loinc_concept": "MPV",
+        "result": "10.0",
+        "unit": "fL",
+        "reference_range_low": "6.8",
+        "reference_range_high": "10.9",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Red Cell Distribution Width (RDW)",
+        "loinc_concept": "RDW",
+        "result": "15.3",
+        "flag": "High",
+        "unit": "%",
+        "reference_range_low": "11.6",
+        "reference_range_high": "14.0",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "Neutrophils",
+        "loinc_concept": "NEUTROPHILS_PCT",
+        "result": "58",
+        "unit": "%",
+        "reference_range_low": "40",
+        "reference_range_high": "80",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Absolute Neutrophil Count",
+        "loinc_concept": "ANC",
+        "result": "3.13",
+        "unit": "thou/µL",
+        "reference_range_low": "2.0",
+        "reference_range_high": "7.0",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Lymphocytes",
+        "loinc_concept": "LYMPHOCYTES_PCT",
+        "result": "29",
+        "unit": "%",
+        "reference_range_low": "20",
+        "reference_range_high": "40",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Absolute Lymphocyte Count",
+        "loinc_concept": "ALC",
+        "result": "1.57",
+        "unit": "thou/µL",
+        "reference_range_low": "1.0",
+        "reference_range_high": "3.0",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Page 1 of 7 — only first panel visible. Document continues. Patient name: JAYALAKSHMI."
+  },
+  {
+    "file_id": "GT-004",
+    "file_name": "CHE-0425-PA-0013118_E-FBANDS_250427_1234_E_pdf_page_28.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Madras Medical Mission — Clinical Laboratory Services",
+    "hospital": "Madras Medical Mission, Chennai",
+    "report_section": "HEMATOLOGY REPORT",
+    "report_date": "REDACTED",
+    "specimen": "EDTA Blood",
+    "findings": [
+      {
+        "test_name": "Haemoglobin",
+        "loinc_concept": "HEMOGLOBIN",
+        "result": "8.4",
+        "unit": "g/dL",
+        "reference_range_low": "11.2",
+        "reference_range_high": "15.7",
+        "reference_display": "Male: 13.7-17.5 / Female: 11.2-15.7",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "Method: SLS Haemoglobin Detection. Sex-specific reference range printed — both male and female ranges shown. Value abnormal against either range."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Single-test report. Consultant: Dr Ulhas M Pandurangi. Ward: I Floor - AICU/26/A — ICU patient."
+  },
+  {
+    "file_id": "GT-005",
+    "file_name": "CHE-0425-PA-0013990_E-DischargeSummary_250427_1530_E_pdf_page_3.png",
+    "group": "C",
+    "document_type": "LAB_REPORT_EMBEDDED_IN_CLINICAL_DOCUMENT",
+    "lab_name": "SRV Mamata Hospital (in-house)",
+    "hospital": "SRV Mamata Hospital, Dombivali East",
+    "report_section": "MULTI-PANEL: CBC + ELECTROLYTES + COAGULATION + SEROLOGY + URINE",
+    "report_date": "24-APR / 25-APR 2025",
+    "specimen": "Multiple",
+    "findings": [
+      {
+        "test_name": "Red Cell Count",
+        "loinc_concept": "RBC",
+        "result": "4.51",
+        "unit": "x10^6/uL",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null,
+        "notes": "No reference range printed on this document"
+      },
+      {
+        "test_name": "Haemoglobin",
+        "loinc_concept": "HEMOGLOBIN",
+        "result": "13.1",
+        "unit": "g/dL",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null,
+        "notes": "No reference range — cannot determine abnormality"
+      },
+      {
+        "test_name": "Haematocrit",
+        "loinc_concept": "HEMATOCRIT",
+        "result": "38.6",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "MCV",
+        "loinc_concept": "MCV",
+        "result": "85.6",
+        "unit": "fL",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "MCH",
+        "loinc_concept": "MCH",
+        "result": "29.0",
+        "unit": "pg",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "MCHC",
+        "loinc_concept": "MCHC",
+        "result": "33.9",
+        "unit": "g/dL",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "RDW (SD)",
+        "loinc_concept": "RDW",
+        "result": "40.1",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Total WBC Count",
+        "loinc_concept": "WBC",
+        "result": "6.45",
+        "unit": "10^3 cells/ul",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Platelet Count",
+        "loinc_concept": "PLATELETS",
+        "result": "321",
+        "unit": "10^3 cells/ul",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Neutrophils %",
+        "loinc_concept": "NEUTROPHILS_PCT",
+        "result": "55.2",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Eosinophils %",
+        "loinc_concept": "EOSINOPHILS_PCT",
+        "result": "1.4",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Lymphocytes %",
+        "loinc_concept": "LYMPHOCYTES_PCT",
+        "result": "36.1",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Monocytes %",
+        "loinc_concept": "MONOCYTES_PCT",
+        "result": "6.8",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Basophils %",
+        "loinc_concept": "BASOPHILS_PCT",
+        "result": "0.5",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "RDW (CV)",
+        "loinc_concept": "RDW_CV",
+        "result": "12.7",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Mean Platelet Volume (MPV)",
+        "loinc_concept": "MPV",
+        "result": "8.4",
+        "unit": "fL",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Platelet Distribution Width (PDW)",
+        "loinc_concept": "PDW",
+        "result": "8.2",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Plateletocrit (PCT)",
+        "loinc_concept": "PCT",
+        "result": "0.27",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "P-LCR",
+        "loinc_concept": "P_LCR",
+        "result": "12.0",
+        "unit": "%",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "RBC Morphology",
+        "loinc_concept": "RBC_MORPHOLOGY",
+        "result": "Normocytic Normochromic",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "WBC Morphology",
+        "loinc_concept": "WBC_MORPHOLOGY",
+        "result": "Normal",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Platelets on Smear",
+        "loinc_concept": "PLATELETS_SMEAR",
+        "result": "Adequate",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Creatinine",
+        "loinc_concept": "CREATININE",
+        "result": "0.8",
+        "unit": "mg/dL",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null,
+        "notes": "Partial value visible in header row — no reference range on this document"
+      },
+      {
+        "test_name": "Chloride, Serum",
+        "loinc_concept": "CHLORIDE",
+        "result": "100.0",
+        "unit": "mmol/L",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Potassium, Serum",
+        "loinc_concept": "POTASSIUM",
+        "result": "3.9",
+        "unit": "mmol/L",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Sodium, Serum",
+        "loinc_concept": "SODIUM",
+        "result": "136.0",
+        "unit": "mmol/L",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "HIV-1",
+        "loinc_concept": "HIV1",
+        "result": "NON REACTIVE",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "HIV-2",
+        "loinc_concept": "HIV2",
+        "result": "NON REACTIVE",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Prothrombin Time (PT) Control",
+        "loinc_concept": "PT_CONTROL",
+        "result": "15.7",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Prothrombin Time Ratio",
+        "loinc_concept": "PT_RATIO",
+        "result": "0.98",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "ISI Value",
+        "loinc_concept": "ISI",
+        "result": "1.1",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "INR Value",
+        "loinc_concept": "INR",
+        "result": "0.98",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false,
+        "notes": "Normal INR ~1.0"
+      },
+      {
+        "test_name": "Prothrombin Time",
+        "loinc_concept": "PT",
+        "result": "15.6",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Urine Colour",
+        "loinc_concept": "URINE_COLOR",
+        "result": "Pale yellow",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Urine Appearance",
+        "loinc_concept": "URINE_APPEARANCE",
+        "result": "Clear",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Specific Gravity",
+        "loinc_concept": "URINE_SG",
+        "result": "1.015",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "pH (Reaction)",
+        "loinc_concept": "URINE_PH",
+        "result": "6.5",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Occult Blood",
+        "loinc_concept": "URINE_OCCULT_BLOOD",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Bile Salts",
+        "loinc_concept": "URINE_BILE_SALTS",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Urobilinogen",
+        "loinc_concept": "URINE_UROBILINOGEN",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Ketone",
+        "loinc_concept": "URINE_KETONE",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Protein",
+        "loinc_concept": "URINE_PROTEIN",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Glucose",
+        "loinc_concept": "URINE_GLUCOSE",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "HARD",
+    "special_notes": "This is a multi-panel results page from a clinical discharge document, not a standalone lab report. No reference ranges printed — common in discharge summary-embedded lab results. This is the most complex document type in the batch — tests OCR ability to handle multi-column mixed-format layouts. Australian Antigen and HCV Rapid also visible in header — both NON REACTIVE."
+  },
+  {
+    "file_id": "GT-006",
+    "file_name": "CHE-0425-PA-0014202_E-BLOODREPORTPREMA_250428_0045_E_pdf_page_2.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Srinivasan Rajalakshmi Memorial Hospital Clinical Laboratory",
+    "hospital": "Srinivasan Rajalakshmi Memorial Hospital, Chennai",
+    "report_section": "SEROLOGY + ESR",
+    "report_date": "REDACTED",
+    "patient": "Mrs Prema K.R",
+    "findings": [
+      {
+        "test_name": "ESR — 1 Hour (Westergren)",
+        "loinc_concept": "ESR",
+        "result": "20",
+        "unit": "mm/hr",
+        "reference_range_low": "5",
+        "reference_range_high": "20",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Borderline — at upper limit of normal"
+      },
+      {
+        "test_name": "Leptospira IgG (Serum/ELISA)",
+        "loinc_concept": "LEPTOSPIRA_IGG",
+        "result": "NEGATIVE",
+        "flag": null,
+        "numeric_value": "7.23",
+        "unit": "NTU",
+        "reference_display": "Less than 9 NTU: Negative; 9-11 NTU: Equivocal; More than 11 NTU: Positive",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Leptospira IgM (Serum/ELISA)",
+        "loinc_concept": "LEPTOSPIRA_IGM",
+        "result": "NEGATIVE",
+        "numeric_value": "6.99",
+        "unit": "Units",
+        "reference_display": "Less than 9 Units: Negative; 9-11 Units: Equivocal; More than 11 Units: Positive",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Scrub Typhus IgM (Serum/ELISA)",
+        "loinc_concept": "SCRUB_TYPHUS_IGM",
+        "result": "NEGATIVE",
+        "unit": null,
+        "reference_display": "Negative: <9; Equivocal: 9-11; Positive: >11",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Widal S.Typhi O (Agglutination)",
+        "loinc_concept": "WIDAL_TYPHI_O",
+        "result": "NEGATIVE 1 in 20 DILUTIONS",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Widal S.Typhi H (Agglutination)",
+        "loinc_concept": "WIDAL_TYPHI_H",
+        "result": "NEGATIVE 1 in 20 DILUTIONS",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Widal S.Paratyphi AH (Agglutination)",
+        "loinc_concept": "WIDAL_PARATYPHI_AH",
+        "result": "NEGATIVE 1 in 20 DILUTIONS",
+        "unit": null,
+        "is_abnormal": false
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Serology-heavy report. All results negative. No numeric flags. Tests for tropical infections — Leptospirosis, Typhus, Typhoid. Good test of non-numeric result extraction."
+  },
+  {
+    "file_id": "GT-007",
+    "file_name": "CHE-0425-PA-0014450_F-ASHOKLAB_250427_1146_G_pdf_page_2.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Sahayog Pathology Laboratory",
+    "hospital": "Kirkatwadi (referred by Dr Hol KishorKumar)",
+    "report_section": "BIOCHEMISTRY — Serum Bilirubin",
+    "report_date": "REDACTED",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "Total Bilirubin",
+        "loinc_concept": "BILIRUBIN_TOTAL",
+        "result": "12.30",
+        "flag": "H",
+        "unit": "mg/dl",
+        "reference_range_low": "0",
+        "reference_range_high": "1.2",
+        "reference_display": "0-1.2 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true
+      },
+      {
+        "test_name": "Direct Bilirubin",
+        "loinc_concept": "BILIRUBIN_DIRECT",
+        "result": "0.49",
+        "unit": "mg/dl",
+        "reference_range_low": "0",
+        "reference_range_high": "0.6",
+        "reference_display": "0-0.6 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Indirect Bilirubin",
+        "loinc_concept": "BILIRUBIN_INDIRECT",
+        "result": "11.81",
+        "flag": "H",
+        "unit": "mg/dl",
+        "reference_range_low": "0",
+        "reference_range_high": "0.6",
+        "reference_display": "0-0.6 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Calculated value"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Age-specific bilirubin ranges also printed for neonates — not captured as separate rows since patient appears adult. Lab ID: 234751 300325."
+  },
+  {
+    "file_id": "GT-008",
+    "file_name": "GUR-0425-CL-0194864_EMP_INW_25042025101859INVR_Preeti_Yellan_Pathology_Reports_Shreeyas_Hospital_pdf_page_1.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Lupin Diagnostics",
+    "report_section": "LUPIKAVACH VITAMIN CHECK — Vitamin B12",
+    "report_date": "25 Apr 2025",
+    "specimen": "REDACTED",
+    "findings": [
+      {
+        "test_name": "Vitamin B12 (Cyanocobalamin)",
+        "loinc_concept": "VITAMIN_B12",
+        "result": "447.8",
+        "unit": null,
+        "reference_range_low": "197",
+        "reference_range_high": "771",
+        "reference_display": "Normal: 197-771 (graphical display)",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Value shown on graphical scale. Two data points visible: 414.4 and 447.8 — 447.8 appears to be the current result. 414.4 may be a prior result. Unit not printed — typically pg/mL for B12."
+      }
+    ],
+    "extraction_confidence": "LOW",
+    "ocr_difficulty": "HARD",
+    "special_notes": "CRITICAL DOCUMENT FOR TESTING: This report uses a graphical bar/scale format instead of a standard table. OCR tools that only do text extraction will completely fail on this — the values are embedded in a visual chart. Only vision-capable models (VLMs) can extract values from this format. Excellent stress test for OCR pipeline. Referral doctor: Tejas Suresh Rao."
+  },
+  {
+    "file_id": "GT-009",
+    "file_name": "GUR-0425-CL-0195381_EMP_INW_19042025183215INVR_LabReport_pdf_page_12.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Shree Diagnostic Centre (Kalyan)",
+    "report_section": "CRP REPORT",
+    "report_date": "REDACTED",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "C-Reactive Protein (CRP)",
+        "loinc_concept": "CRP",
+        "result": "16.17",
+        "flag": "#",
+        "unit": "mg/dl",
+        "reference_range_low": null,
+        "reference_range_high": "0.5",
+        "reference_display": "[<0.5]",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Method: Immunoturbidimetric. Specimen: Serum. Referred by Tejas Suresh Rao. Note: unit here is mg/dl vs mg/L in GT-001 — same test, different unit scale (1 mg/dl = 10 mg/L). Value of 16.17 mg/dl = 161.7 mg/L — severely elevated."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Same test type as GT-001 (CRP) but different lab, different unit (mg/dl vs mg/L), different format. Good test of unit normalization logic. Reporting date: 25 Apr 2025 14:08."
+  },
+  {
+    "file_id": "GT-010",
+    "file_name": "GUR-0425-PA-0053590_E-FinalBillAndDischargeSummary_250427_1355_E_pdf_page_100.png",
+    "group": "C",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Dr Lal PathLabs",
+    "hospital": "Ashirvad Multi Speciality Hospital, Varanasi",
+    "report_section": "Bilirubin Total Direct Indirect + CRP",
+    "report_date": "17/4/2025",
+    "patient_sex": "Male",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "Bilirubin Total",
+        "loinc_concept": "BILIRUBIN_TOTAL",
+        "result": "10.95",
+        "unit": "mg/dL",
+        "reference_range_low": "1.50",
+        "reference_range_high": "12.00",
+        "reference_display": "1.50-12.00",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Within stated reference range — however clinically this is very high total bilirubin. Reference range appears to be neonatal/infant range (1.50-12.00). For adults, normal is 0.2-1.2 mg/dL. Flag as clinically significant."
+      },
+      {
+        "test_name": "Bilirubin Direct",
+        "loinc_concept": "BILIRUBIN_DIRECT",
+        "result": "0.35",
+        "unit": "mg/dL",
+        "reference_range_low": "0.00",
+        "reference_range_high": "0.40",
+        "reference_display": "0.00-0.40",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Bilirubin Indirect",
+        "loinc_concept": "BILIRUBIN_INDIRECT",
+        "result": "10.60",
+        "unit": "mg/dL",
+        "reference_range_low": null,
+        "reference_range_high": "1.10",
+        "reference_display": "<1.10",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true
+      },
+      {
+        "test_name": "C-Reactive Protein (CRP)",
+        "loinc_concept": "CRP",
+        "result": "6.50",
+        "unit": "mg/L",
+        "reference_range_low": null,
+        "reference_range_high": "6.00",
+        "reference_display": "<6.00",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Method: Immunoturbidimetry. Marginally elevated."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Page 3 of 6 from Dr Lal PathLabs report. Neonatal bilirubin comment present — patient likely a newborn or infant. Bilirubin Indirect is critically high for any age group. Good test for multi-section page extraction."
+  },
+  {
+    "file_id": "GT-011",
+    "file_name": "GUR-0425-PA-0055942_IV_REPORTS_27-04-2025_1112-47_AM_E_pdf_page_1.png",
+    "group": "B",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Paramedical Centre (Computerised Pathological Laboratory)",
+    "hospital": "Referred by Dr. Rakhi Sanyal (Dutta Sarma)",
+    "report_section": "DEPARTMENT OF CLINICAL PATHOLOGY — URINE",
+    "report_date": "REDACTED",
+    "patient_dob": "APR/1989",
+    "specimen": "Urine",
+    "findings": [
+      {
+        "test_name": "Quantity",
+        "loinc_concept": "URINE_QUANTITY",
+        "result": "30",
+        "unit": "ml",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Colour",
+        "loinc_concept": "URINE_COLOR",
+        "result": "Light Straw",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Appearance",
+        "loinc_concept": "URINE_APPEARANCE",
+        "result": "Clear",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Deposit",
+        "loinc_concept": "URINE_DEPOSIT",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Specific Gravity",
+        "loinc_concept": "URINE_SG",
+        "result": "1.015",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Reaction (pH)",
+        "loinc_concept": "URINE_REACTION",
+        "result": "Acidic",
+        "unit": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Protein (Albumin)",
+        "loinc_concept": "URINE_PROTEIN",
+        "result": "Present (+)",
+        "unit": null,
+        "is_abnormal": true,
+        "abnormal_direction": "POSITIVE",
+        "notes": "Proteinuria detected"
+      },
+      {
+        "test_name": "Sugar",
+        "loinc_concept": "URINE_GLUCOSE",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Ketone Bodies",
+        "loinc_concept": "URINE_KETONE",
+        "result": "/",
+        "unit": null,
+        "is_abnormal": null,
+        "notes": "Slash symbol — result not recorded or unreadable"
+      },
+      {
+        "test_name": "pH",
+        "loinc_concept": "URINE_PH",
+        "result": "/",
+        "unit": null,
+        "is_abnormal": null,
+        "notes": "Slash symbol — result not recorded"
+      },
+      {
+        "test_name": "Chyle",
+        "loinc_concept": "URINE_CHYLE",
+        "result": "/",
+        "unit": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Blood",
+        "loinc_concept": "URINE_OCCULT_BLOOD",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Bile Salt",
+        "loinc_concept": "URINE_BILE_SALT",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Bile Pigment",
+        "loinc_concept": "URINE_BILE_PIGMENT",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Phosphates",
+        "loinc_concept": "URINE_PHOSPHATES",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Nitrite",
+        "loinc_concept": "URINE_NITRITE",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Pus Cells",
+        "loinc_concept": "URINE_PUS_CELLS",
+        "result": "0-1",
+        "unit": "/HPF",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "R.B.C",
+        "loinc_concept": "URINE_RBC",
+        "result": "0-1",
+        "unit": "/HPF",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Epithelial Cells",
+        "loinc_concept": "URINE_EPITHELIAL",
+        "result": "Few",
+        "unit": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Casts",
+        "loinc_concept": "URINE_CASTS",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Crystals",
+        "loinc_concept": "URINE_CRYSTALS",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Yeast Cell",
+        "loinc_concept": "URINE_YEAST",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Parasite",
+        "loinc_concept": "URINE_PARASITE",
+        "result": "Absent",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Micro-organisms",
+        "loinc_concept": "URINE_MICROORGANISMS",
+        "result": "Few",
+        "unit": null,
+        "is_abnormal": true,
+        "notes": "Presence of few micro-organisms is clinically significant"
+      },
+      {
+        "test_name": "Others",
+        "loinc_concept": "URINE_OTHER",
+        "result": "/",
+        "unit": null,
+        "is_abnormal": null
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Note at bottom: reference ranges provided along with the report (redacted). Protein Present(+) is the key clinical finding. Micro-organisms Few also significant. Lab: Paramedical Centre, Kolkata."
+  },
+  {
+    "file_id": "GT-012",
+    "file_name": "GUR-0425-PA-0056087_E-SIVASUM_250427_1015_E_pdf_page_13.png",
+    "group": "C",
+    "document_type": "MICROBIOLOGY_REPORT",
+    "lab_name": "Sri Ramachandra Hospital — Sri Ramachandra Medical College & Research Institute",
+    "hospital": "Sri Ramachandra Hospital, Chennai",
+    "report_section": "MICROBIOLOGY — Urine Culture",
+    "report_date": "REDACTED",
+    "patient": "MR SIVASANKARAN JAYAGOPAL",
+    "ward": "E6",
+    "bed": "6518",
+    "specimen": "CULTURE-URINE",
+    "findings": [
+      {
+        "test_name": "Microscopy — Urine Culture",
+        "loinc_concept": "URINE_MICROSCOPY",
+        "result": "FEW PUS CELLS, NO ORGANISM",
+        "unit": null,
+        "is_abnormal": null,
+        "notes": "Few pus cells present but no organism seen on microscopy"
+      },
+      {
+        "test_name": "Culture Result",
+        "loinc_concept": "URINE_CULTURE",
+        "result": "NO GROWTH IN CULTURE",
+        "unit": null,
+        "is_abnormal": false,
+        "notes": "No bacterial growth — culture negative"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Page 13 of 15. Microbiology report — no numeric values, no reference ranges. Tests whether OCR can handle qualitative-only results. Negative culture result is clinically important. Department: General Surgery."
+  },
+  {
+    "file_id": "GT-013",
+    "file_name": "GUR-0425-PA-0056928_E-LabReports_250428_1008_E_pdf_page_14.png",
+    "group": "B",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Cygnus MLS SuperSpeciality Hospital",
+    "hospital": "Cygnus MLS Hospitals Private Limited, New Delhi",
+    "report_section": "CLINICAL PATHOLOGY — URINE ROUTINE MICROSCOPY",
+    "report_date": "REDACTED",
+    "patient": "MR AKSHAY KUMAR JHA",
+    "age_gender": "25 Years 3 Months 4 Days / Male",
+    "specimen": "Urine",
+    "findings": [
+      {
+        "test_name": "Quantity",
+        "loinc_concept": "URINE_QUANTITY",
+        "result": "25",
+        "unit": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Colour",
+        "loinc_concept": "URINE_COLOR",
+        "result": "YELLOW",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Appearance",
+        "loinc_concept": "URINE_APPEARANCE",
+        "result": "SLIGHTLY HAZY",
+        "unit": null,
+        "is_abnormal": true,
+        "notes": "Hazy appearance is abnormal — may indicate infection or cells"
+      },
+      {
+        "test_name": "pH",
+        "loinc_concept": "URINE_PH",
+        "result": "5.0",
+        "unit": null,
+        "reference_range_low": "1",
+        "reference_range_high": "7",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Specific Gravity",
+        "loinc_concept": "URINE_SG",
+        "result": "1.030",
+        "unit": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Albumin",
+        "loinc_concept": "URINE_ALBUMIN",
+        "result": "NIL",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Sugar",
+        "loinc_concept": "URINE_GLUCOSE",
+        "result": "NIL",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Pus Cells",
+        "loinc_concept": "URINE_PUS_CELLS",
+        "result": "14-16",
+        "flag": "H",
+        "unit": "HPF",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "notes": "High — significant pyuria"
+      },
+      {
+        "test_name": "Epithelial Cells",
+        "loinc_concept": "URINE_EPITHELIAL",
+        "result": "8-10",
+        "flag": "H",
+        "unit": "HPF",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH"
+      },
+      {
+        "test_name": "RBCs",
+        "loinc_concept": "URINE_RBC",
+        "result": "NIL",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Casts",
+        "loinc_concept": "URINE_CASTS",
+        "result": "NIL",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Crystals",
+        "loinc_concept": "URINE_CRYSTALS",
+        "result": "NIL",
+        "unit": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Bacteria",
+        "loinc_concept": "URINE_BACTERIA",
+        "result": "PRESENT",
+        "unit": null,
+        "is_abnormal": true,
+        "notes": "Bacteria present — suggestive of UTI"
+      },
+      {
+        "test_name": "Others",
+        "loinc_concept": "URINE_OTHER",
+        "result": "CALCIUM OXALATE PRESENT",
+        "unit": null,
+        "is_abnormal": true,
+        "notes": "Calcium oxalate crystals present — relevant for kidney stone history"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Pus cells 14-16 HPF (HIGH) + bacteria present = active UTI. Good test for flag extraction. Patient type: IP. Microbiologist: Dr Vipul Jain."
+  },
+  {
+    "file_id": "GT-014",
+    "file_name": "GUR-0425-PA-0057745_Q-LABREPORTS_250428_1121_F_pdf_page_12.png",
+    "group": "B",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Healing Touch Super Speciality Hospital",
+    "hospital": "Healing Touch Super Speciality Hospital, Ambala",
+    "report_section": "CLINICAL PATHOLOGY — URINE ROUTINE MICROSCOPY",
+    "report_date": "REDACTED",
+    "patient_type": "OPD",
+    "referring_doctor": "Dr. Sanjeev Goyal",
+    "specimen": "Urine",
+    "findings": [
+      {
+        "test_name": "Sample Volume",
+        "loinc_concept": "URINE_QUANTITY",
+        "result": "20",
+        "unit": "ml",
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Colour",
+        "loinc_concept": "URINE_COLOR",
+        "result": "Pale Yellow",
+        "unit": null,
+        "reference_display": "Pale Yellow",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Appearance",
+        "loinc_concept": "URINE_APPEARANCE",
+        "result": "Clear",
+        "unit": null,
+        "reference_display": "Clear",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Specific Gravity",
+        "loinc_concept": "URINE_SG",
+        "result": "1.030",
+        "unit": null,
+        "reference_range_low": "1.000",
+        "reference_range_high": "1.030",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "pH — Urine",
+        "loinc_concept": "URINE_PH",
+        "result": "5.0",
+        "unit": null,
+        "is_abnormal": null
+      },
+      {
+        "test_name": "Albumin",
+        "loinc_concept": "URINE_ALBUMIN",
+        "result": "+",
+        "unit": null,
+        "reference_display": "Absent",
+        "is_abnormal": true,
+        "abnormal_direction": "POSITIVE",
+        "notes": "1+ (30 mg/dl) per footnote — proteinuria present"
+      },
+      {
+        "test_name": "Glucose",
+        "loinc_concept": "URINE_GLUCOSE",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "Absent",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Urobilinogen",
+        "loinc_concept": "URINE_UROBILINOGEN",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "NIL",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Pus Cells — Urine",
+        "loinc_concept": "URINE_PUS_CELLS",
+        "result": "2-4",
+        "unit": "/HPF",
+        "reference_range_low": "0",
+        "reference_range_high": "5",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Red Blood Cells",
+        "loinc_concept": "URINE_RBC",
+        "result": "Nil",
+        "unit": "/HPF",
+        "reference_display": "NIL",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Epithelial Cells — Urine",
+        "loinc_concept": "URINE_EPITHELIAL",
+        "result": "1-2",
+        "unit": "/HPF",
+        "reference_range_low": "0",
+        "reference_range_high": "5",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Casts",
+        "loinc_concept": "URINE_CASTS",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "NIL",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Crystals",
+        "loinc_concept": "URINE_CRYSTALS",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "NIL",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Micro-organisms",
+        "loinc_concept": "URINE_MICROORGANISMS",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "NIL",
+        "is_abnormal": false
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Footnote: Albumin 1+(30mg/dl). This report has a biological reference interval column — good test for multi-column reference range extraction. Proteinuria (Albumin +) is only significant abnormality."
+  },
+  {
+    "file_id": "GT-015",
+    "file_name": "IND-0425-PA-0033745_SANKET_CBC_27-04-2025_0431-24_PM_F_pdf_page_2.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "UNKNOWN (digital hospital LIS — SRL format)",
+    "hospital": "UNKNOWN",
+    "report_section": "LAB TEST REPORT — CRP, CREATININE, eGFR, POTASSIUM",
+    "report_date": "REDACTED (09:05:51)",
+    "ordering_doctor": "Dr. Subhaprakash Sanyal & Team",
+    "episode_type": "IPD",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "C-Reactive Protein",
+        "loinc_concept": "CRP",
+        "result": "164.0",
+        "flag": "High",
+        "unit": "mg/L",
+        "reference_range_low": null,
+        "reference_range_high": "5.0",
+        "reference_display": "< 5.0",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Panel: PROTEIN SERUM (1535D-SRL)"
+      },
+      {
+        "test_name": "Creatinine",
+        "loinc_concept": "CREATININE",
+        "result": "0.67",
+        "flag": "Low",
+        "unit": "mg/dL",
+        "reference_range_low": "0.80",
+        "reference_range_high": "1.30",
+        "reference_display": "0.80 - 1.30",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "notes": "Panel: CREATININE EGFR-EPI (1320HGFREP-SRL)"
+      },
+      {
+        "test_name": "Glomerular Filtration Rate (Male)",
+        "loinc_concept": "eGFR",
+        "result": "104.91",
+        "unit": "mL/min/1.73m2",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "reference_display": "Refer Interpretation Below",
+        "is_abnormal": false,
+        "notes": "eGFR >60 is normal. 104.91 is normal range."
+      },
+      {
+        "test_name": "Potassium",
+        "loinc_concept": "POTASSIUM",
+        "result": "4.11",
+        "unit": "mmol/L",
+        "reference_range_low": "3.5",
+        "reference_range_high": "5.3",
+        "reference_display": "3.5 - 5.3",
+        "is_abnormal": false,
+        "notes": "Panel: POTASSIUM SERUM (5311HD-SRL)"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Digital LIS output — table layout with panel headers. CRP 164 mg/L is critically elevated. eGFR reference says 'Refer Interpretation Below' — good test for handling non-numeric reference ranges. Some fields partially redacted."
+  },
+  {
+    "file_id": "GT-016",
+    "file_name": "JPR-0425-PA-0005068_E-AnnuFinal_250427_1502_E_pdf_page_19.png",
+    "group": "B",
+    "document_type": "LAB_REPORT",
+    "lab_name": "DN Lab Diagnostic Centre",
+    "hospital": "DN Lab Diagnostic Centre, Mumbai (Bhandup West)",
+    "report_section": "WIDAL TEST",
+    "report_date": "24-04-2025",
+    "patient_gender": "FEMALE",
+    "specimen": "Serum (Tube Agglutination)",
+    "findings": [
+      {
+        "test_name": "S.Typhi O Antigen (Agglutination)",
+        "loinc_concept": "WIDAL_TYPHI_O",
+        "result": "1:80",
+        "unit": null,
+        "reference_display": "No Agglutination",
+        "is_abnormal": true,
+        "abnormal_direction": "POSITIVE",
+        "notes": "Titre 1:80 — positive agglutination. Clinical significance depends on prior vaccination status and baseline titres."
+      },
+      {
+        "test_name": "S.Typhi H Antigen (Agglutination)",
+        "loinc_concept": "WIDAL_TYPHI_H",
+        "result": "1:320",
+        "unit": null,
+        "reference_display": "No Agglutination",
+        "is_abnormal": true,
+        "abnormal_direction": "POSITIVE",
+        "is_critical": true,
+        "notes": "High titre 1:320 — strongly positive. Suggestive of active/recent Salmonella typhi infection."
+      },
+      {
+        "test_name": "S. Paratyphi A(H) Antigen",
+        "loinc_concept": "WIDAL_PARATYPHI_AH",
+        "result": "No Agglutination",
+        "unit": null,
+        "reference_display": "No Agglutination",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "S. Paratyphi B(H) Antigen",
+        "loinc_concept": "WIDAL_PARATYPHI_BH",
+        "result": "No Agglutination",
+        "unit": null,
+        "reference_display": "No Agglutination",
+        "is_abnormal": false
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Widal test — titers expressed as ratios (1:80, 1:320). Tests OCR ability to handle ratio values and agglutination results. S.Typhi H 1:320 is diagnostically significant. Lab ID: 6610. Checked by Dr. Shubhangi Pawar MD (Path)."
+  },
+  {
+    "file_id": "GT-017",
+    "file_name": "MUM-0425-PA-0004291_LAB_REPORT_26-04-2025_0523-21_PM_G_pdf_page_1.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Manipal Hospitals, Baner, Pune",
+    "hospital": "Manipal Hospital, Baner, Pune",
+    "report_section": "BIOCHEMISTRY — RENAL PANEL I",
+    "report_date": "26 Apr 2025",
+    "specimen": "Serum/Plasma",
+    "findings": [
+      {
+        "test_name": "BUN (Urease/GLDH)",
+        "loinc_concept": "BUN",
+        "result": "11.60",
+        "unit": "mg/dl",
+        "reference_range_low": "8.00",
+        "reference_range_high": "23.00",
+        "reference_display": "[8.00-23.00]",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Serum Creatinine (mod. Jaffe)",
+        "loinc_concept": "CREATININE",
+        "result": "0.64",
+        "unit": "mg/dl",
+        "reference_range_low": "0.50",
+        "reference_range_high": "0.90",
+        "reference_display": "[0.50-0.90]",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "eGFR (Calculated)",
+        "loinc_concept": "eGFR",
+        "result": "94.6",
+        "unit": "ml/min/1.73sq.m",
+        "reference_range_low": "60",
+        "reference_range_high": null,
+        "reference_display": "[>60.0]",
+        "is_abnormal": false,
+        "notes": "CKD-EPI 2009 equation"
+      },
+      {
+        "test_name": "Serum Sodium (Indirect ISE)",
+        "loinc_concept": "SODIUM",
+        "result": "139.5",
+        "unit": "mmol/l",
+        "reference_range_low": "136.0",
+        "reference_range_high": "145.0",
+        "reference_display": "[136.0-145.0]",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Serum Potassium (Indirect ISE)",
+        "loinc_concept": "POTASSIUM",
+        "result": "4.06",
+        "unit": "mmol/l",
+        "reference_range_low": "3.50",
+        "reference_range_high": "5.10",
+        "reference_display": "[3.50-5.10]",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Serum Chloride (Indirect ISE)",
+        "loinc_concept": "CHLORIDE",
+        "result": "102.5",
+        "unit": "mmol/L",
+        "reference_range_low": "98.0",
+        "reference_range_high": "107.0",
+        "reference_display": "[98.0-107.0]",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Serum Bicarbonate (Enzymatic PEP-MD)",
+        "loinc_concept": "BICARBONATE",
+        "result": "23.4",
+        "unit": "mmol/L",
+        "reference_range_low": "21.0",
+        "reference_range_high": "31.0",
+        "reference_display": "[21.0-31.0]",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Urea",
+        "loinc_concept": "UREA",
+        "result": "24.8",
+        "unit": "mg/dl",
+        "reference_range_low": "17.0",
+        "reference_range_high": "43.0",
+        "reference_display": "[17.0-43.0]",
+        "is_abnormal": false
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Clean digital Manipal Hospital report. All values within normal limits. Referred by PRIYANKA. Good test for clean renal panel extraction with complete reference ranges. All values normal — zero abnormal flags."
+  },
+  {
+    "file_id": "GT-018",
+    "file_name": "BLR-0425-PA-0039320_501848074_Final_bill_and_DS___26042025_27-04-2025_1054-20_AM_pdf_page_10.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Aster MIMS Hospital",
+    "hospital": "Aster MIMS Hospital, Calicut (Mini Byepass Road, Govindapuram PO, Calicut 673 016, Kerala)",
+    "report_section": "COAGULATION + CBC COMPLETE BLOOD COUNT + DLC (PARTIAL)",
+    "report_date": "REDACTED",
+    "consultant": "Dr. SABARINATH MENON",
+    "patient": "Nithin Thumbethodika",
+    "specimen": "Blood",
+    "findings": [
+      {
+        "test_name": "APTT (Activated Partial Thromboplastin Time)",
+        "loinc_concept": "APTT",
+        "result": "66.9",
+        "flag": "H",
+        "unit": "sec",
+        "reference_range_low": "26",
+        "reference_range_high": "36",
+        "reference_display": "26-36 sec",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Significantly prolonged clotting time — nearly double the upper limit of reference range. Control: 30.0 sec."
+      },
+      {
+        "test_name": "APTT Control",
+        "loinc_concept": "APTT_CONTROL",
+        "result": "30.0",
+        "unit": "sec",
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": null,
+        "notes": "Control value — reference range not printed"
+      },
+      {
+        "test_name": "Haemoglobin Estimation (Hb)",
+        "loinc_concept": "HEMOGLOBIN",
+        "result": "15.3",
+        "flag": "H",
+        "unit": "g/dl",
+        "reference_range_low": "11.1",
+        "reference_range_high": "14.1",
+        "reference_display": "11.1-14.1 g/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Reference range 11.1-14.1 is consistent with female or pediatric norms. Patient name 'Nithin' may be male — range mismatch noted."
+      },
+      {
+        "test_name": "Total Leukocyte Count (TLC)",
+        "loinc_concept": "WBC",
+        "result": "9.9",
+        "unit": "K/uL",
+        "reference_range_low": "6",
+        "reference_range_high": "18",
+        "reference_display": "6-18 K/uL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Platelet Count",
+        "loinc_concept": "PLATELETS",
+        "result": "107",
+        "flag": "L",
+        "unit": "K/uL",
+        "reference_range_low": "200",
+        "reference_range_high": "550",
+        "reference_display": "200-550 K/uL",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "Thrombocytopenia. 107 K/uL is below 150 (clinical critical threshold for most labs), and well below the lab's stated lower limit of 200."
+      },
+      {
+        "test_name": "RBC Count (Red Blood Cell)",
+        "loinc_concept": "RBC",
+        "result": "5.33",
+        "flag": "H",
+        "unit": "10^6/µL",
+        "reference_range_low": "4.1",
+        "reference_range_high": "5.3",
+        "reference_display": "4.1-5.3 10^6/µL",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "PCV (Haematocrit)",
+        "loinc_concept": "HEMATOCRIT",
+        "result": "44.5",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "30",
+        "reference_range_high": "40",
+        "reference_display": "30-40 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Reference range 30-40% consistent with female/paediatric norms"
+      },
+      {
+        "test_name": "Mean Corpuscular Volume (MCV)",
+        "loinc_concept": "MCV",
+        "result": "83.4",
+        "unit": "fl",
+        "reference_range_low": "68",
+        "reference_range_high": "84",
+        "reference_display": "68-84 fl",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Borderline — just within upper limit"
+      },
+      {
+        "test_name": "Mean Corpuscular Hemoglobin (MCH)",
+        "loinc_concept": "MCH",
+        "result": "28.7",
+        "unit": "pg",
+        "reference_range_low": "24",
+        "reference_range_high": "30",
+        "reference_display": "24-30 pg",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+        "loinc_concept": "MCHC",
+        "result": "34.4",
+        "unit": "g/dl",
+        "reference_range_low": "30",
+        "reference_range_high": "36",
+        "reference_display": "30-36 g/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Red Cell Distribution Width-CV (RDW)",
+        "loinc_concept": "RDW",
+        "result": "14.9",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "11.6",
+        "reference_range_high": "14",
+        "reference_display": "11.6-14 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "Platelet Distribution Width (PDW)",
+        "loinc_concept": "PDW",
+        "result": "15.7",
+        "flag": "H",
+        "unit": "fl",
+        "reference_range_low": "8.5",
+        "reference_range_high": "14.1",
+        "reference_display": "8.5-14.1 fl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "Mean Platelet Volume (MPV)",
+        "loinc_concept": "MPV",
+        "result": "8.7",
+        "unit": "fl",
+        "reference_range_low": "7.44",
+        "reference_range_high": "10.26",
+        "reference_display": "7.44-10.26 fl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Neutrophils (DLC %)",
+        "loinc_concept": "NEUTROPHILS_PCT",
+        "result": "68",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "20",
+        "reference_range_high": "65",
+        "reference_display": "20-65 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Page ends here — DLC panel is truncated. Full DLC not visible on this page."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "This is the canonical example document referenced throughout the project. Two significant findings: (1) APTT critically prolonged at 66.9 sec — coagulopathy. (2) Platelet count critically low at 107 K/uL. Page is cut off at Neutrophils — remaining DLC values not visible. Reference ranges printed suggest female/paediatric patient despite male-sounding name 'Nithin'. Lab signed off by DM Healthcare Venture. Hospital CIN: U85110KL1995PLC008677."
+  },
+  {
+    "file_id": "GT-019",
+    "file_name": "GUR-0425-PA-0056087_E-SIVASUM_250427_1015_E_pdf_page_5.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Sri Ramachandra Hospital — Sri Ramachandra Medical College & Research Institute",
+    "hospital": "Sri Ramachandra Hospital, No.1 Ramachandra Nagar, Porur, Chennai-600116",
+    "report_section": "INVESTIGATION REPORT — PLASMA GLUCOSE + RENAL PROFILE + LFT",
+    "report_date": "REDACTED",
+    "referring_doctor": "SURENDRAN P (G.SUR)",
+    "department": "GENERAL SURGERY",
+    "patient": "MR SIVASANKARAN JAYAGOPAL",
+    "specimen": "Serum / Plasma (multiple panels)",
+    "findings": [
+      {
+        "test_name": "Plasma Glucose (Post-Prandial) — Fluoride Plasma Hexokinase",
+        "loinc_concept": "GLUCOSE_PP",
+        "result": "161",
+        "flag": "H",
+        "unit": "mg/dL",
+        "reference_range_low": "80",
+        "reference_range_high": "140",
+        "reference_display": "80-140 mg/dL",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Post-prandial glucose elevated — suggestive of impaired glucose tolerance or uncontrolled diabetes"
+      },
+      {
+        "test_name": "Plasma Glucose (Random) — Plasma Hexokinase",
+        "loinc_concept": "GLUCOSE_RANDOM",
+        "result": "128",
+        "unit": "mg/dL",
+        "reference_range_low": "80",
+        "reference_range_high": "140",
+        "reference_display": "80-140 mg/dL",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Within reference range but borderline"
+      },
+      {
+        "test_name": "BUN (Blood Urea Nitrogen) — Serum Urease",
+        "loinc_concept": "BUN",
+        "result": "11",
+        "unit": "mg/dL",
+        "reference_range_low": "6",
+        "reference_range_high": "20",
+        "reference_display": "6-20 mg/dL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Creatinine — Serum Jaffes Kinetic",
+        "loinc_concept": "CREATININE",
+        "result": "0.9",
+        "unit": "mg/dL",
+        "reference_range_low": "0.7",
+        "reference_range_high": "1.2",
+        "reference_display": "0.7-1.2 mg/dL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Sodium — Serum ISE Indirect",
+        "loinc_concept": "SODIUM",
+        "result": "134",
+        "flag": "L",
+        "unit": "mmol/L",
+        "reference_range_low": "136",
+        "reference_range_high": "145",
+        "reference_display": "136-145 mmol/L",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Mild hyponatraemia"
+      },
+      {
+        "test_name": "Potassium — Serum ISE Indirect",
+        "loinc_concept": "POTASSIUM",
+        "result": "4.1",
+        "unit": "mmol/L",
+        "reference_range_low": "3.5",
+        "reference_range_high": "5.1",
+        "reference_display": "3.5-5.1 mmol/L",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Chloride — Serum ISE Indirect",
+        "loinc_concept": "CHLORIDE",
+        "result": "103",
+        "unit": "mmol/L",
+        "reference_range_low": "98",
+        "reference_range_high": "107",
+        "reference_display": "98-107 mmol/L",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Bicarbonate — Serum Enzymatic PEPC",
+        "loinc_concept": "BICARBONATE",
+        "result": "13",
+        "flag": "L",
+        "unit": "mmol/L",
+        "reference_range_low": "22",
+        "reference_range_high": "29",
+        "reference_display": "22-29 mmol/L",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "Severely low bicarbonate — indicates metabolic acidosis. Bicarbonate <15 is widely considered a critical value."
+      },
+      {
+        "test_name": "S.G.O.T (AST) — Serum UV without P5P",
+        "loinc_concept": "AST",
+        "result": "25",
+        "unit": "IU/L",
+        "reference_range_low": null,
+        "reference_range_high": "40",
+        "reference_display": "<40 IU/L",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "S.G.P.T (ALT)",
+        "loinc_concept": "ALT",
+        "result": "23",
+        "unit": "IU/L",
+        "reference_range_low": null,
+        "reference_range_high": "41",
+        "reference_display": "<41 IU/L",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Report signed by Dr. LEENA CHAND, Associate Professor. Timestamp 18:57:00. Patient is MR SIVASANKARAN JAYAGOPAL (same patient as GT-012 urine culture from same document bundle). Key finding: critically low bicarbonate (13 mmol/L) indicating metabolic acidosis. PP glucose elevated. Report states partial LOINC — report header shows JAYAGOPAL confirming patient identity match with GT-012."
+  },
+  {
+    "file_id": "GT-020",
+    "file_name": "GUR-0425-PA-0054524_E-FinalbillanddischargeSangitadevi_250427_1834_E_pdf_page_11.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Decent Hospital",
+    "hospital": "Decent Hospital, Buddh Vihar Part-A Taramandal (Infront SBI Zonal Office), Gorakhpur",
+    "report_section": "SEROLOGY — CRP (C-Reactive Protein)",
+    "report_date": "REDACTED",
+    "patient": "MRS. SANGITA DEVI",
+    "age_gender": "50Y / F",
+    "referring_doctor": "DECENT HOSPITAL",
+    "specimen": "Serum / Plasma",
+    "findings": [
+      {
+        "test_name": "CRP (C-Reactive Protein)",
+        "loinc_concept": "CRP",
+        "result": "11",
+        "flag": "H",
+        "unit": "mg/l",
+        "reference_range_low": null,
+        "reference_range_high": "5",
+        "reference_display": "Adults <5 mg/l; Newborn up to 3 weeks <4.1 mg/l; Infants & Children <2.8 mg/l",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Value field is partially obscured by document redaction — visible digits read '11'. The first part of the numeric value may be partially covered. Result is elevated vs adult reference <5 mg/l. Signed by Dr. S.P.YADAV, MD PATH (Reg no. 044013)."
+      }
+    ],
+    "extraction_confidence": "MEDIUM",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Value has partial redaction obscuring the beginning of the numeric result. The visible portion reads '11' mg/l. Even at minimum value of 11, result is elevated (>5 mg/l threshold for adults). Report also notes CRP rises to approximately 1000x baseline in acute inflammatory states. Printed interpretation text present. Not for medico legal purpose. Lab contact: Call for ABG 9807900207."
+  },
+  {
+    "file_id": "GT-021",
+    "file_name": "GUR-0425-PA-0056479_Q-BLOODINVESTIGATIONREPORTS_250428_1155_F_pdf_page_6.png",
+    "group": "B",
+    "document_type": "MICROBIOLOGY_REPORT",
+    "lab_name": "Blossoms Mother & Child Hospital (AMRITAA DIAGNOSTICS)",
+    "hospital": "Blossoms Mother & Child Hospital, Sikhamani Centre, Vijayawada — branches: Guntur, Rajamahendravaram, Eluru",
+    "report_section": "MICROBIOLOGY (PRELIMINARY REPORT) — Blood Culture",
+    "report_date": "COLLECTION: 24-Apr-2025 03:49 PM; REPORT: 26-Apr-2025 11:00 AM",
+    "referring_doctor": "Dr. SANDEEP SIR",
+    "sample_id": "A0961335",
+    "specimen": "Blood in Culture Bottle",
+    "findings": [
+      {
+        "test_name": "Blood Culture (Aerobic Incubation 48 hours)",
+        "loinc_concept": "BLOOD_CULTURE",
+        "result": "NO BACTERIAL GROWTH DETECTED",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "No bacterial growth detected at the end of 48 hours of aerobic incubation. Type: Preliminary Report. Method: Rapid Fluorescent Detection (Automated Bactalerts). Final report date redacted. Correlate Clinically."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Preliminary blood culture report — negative result at 48 hours. Same test type as GT-012 (urine culture) but different specimen and different institution. Tests OCR ability to handle qualitative-only microbiology reports with no numeric values. Signed by DR. V. MANJULA, MD MICROBIOLOGY. Report is NABL-certified (logo visible). Scanned with OKEN Scanner."
+  },
+  {
+    "file_id": "GT-022",
+    "file_name": "PUN-0425-PA-0011414_Lab_Report_27-04-2025_0949-24_PM_pdf_page_1.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Parth Pathology Laboratory",
+    "hospital": "Dr. Shree Parth Hospital, Banarsi Nagar, Hirawadi Panchavati, Nashik",
+    "report_section": "HAEMATOLOGY REPORT — CBC + DIFFERENTIAL COUNT + BLOOD INDICES",
+    "report_date": "REPORTING: 22/04/2025",
+    "patient_id": "202504227",
+    "specimen": "Blood",
+    "findings": [
+      {
+        "test_name": "Hemoglobin",
+        "loinc_concept": "HEMOGLOBIN",
+        "result": "12.2",
+        "flag": "L",
+        "unit": "mg/dl",
+        "reference_range_low": "13.5",
+        "reference_range_high": "17.5",
+        "reference_display": "13.5-17.5 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Reference range 13.5-17.5 indicates male reference norms. Unit printed as 'mg/dl' but correct unit for haemoglobin is g/dl — likely a label formatting issue on the report."
+      },
+      {
+        "test_name": "Total R.B.C.",
+        "loinc_concept": "RBC",
+        "result": "3.75",
+        "flag": "L",
+        "unit": "mill/cumm",
+        "reference_range_low": "4.5",
+        "reference_range_high": "6.2",
+        "reference_display": "4.5-6.2 mill/cumm",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Total W.B.C.",
+        "loinc_concept": "WBC",
+        "result": "18700",
+        "flag": "H",
+        "unit": "/cumm",
+        "reference_range_low": "4000",
+        "reference_range_high": "11000",
+        "reference_display": "4000-11000 /cumm",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": true,
+        "notes": "Leukocytosis — WBC > 15000 is often considered critical. Value 18700 is significantly elevated."
+      },
+      {
+        "test_name": "Polymorphs (Neutrophils %)",
+        "loinc_concept": "NEUTROPHILS_PCT",
+        "result": "81",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "40",
+        "reference_range_high": "75",
+        "reference_display": "40-75 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "Lymphocytes %",
+        "loinc_concept": "LYMPHOCYTES_PCT",
+        "result": "15",
+        "flag": "L",
+        "unit": "%",
+        "reference_range_low": "20",
+        "reference_range_high": "45",
+        "reference_display": "20-45 %",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Eosinophils %",
+        "loinc_concept": "EOSINOPHILS_PCT",
+        "result": "02",
+        "unit": "%",
+        "reference_range_low": "1",
+        "reference_range_high": "6",
+        "reference_display": "1-6 %",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Monocytes %",
+        "loinc_concept": "MONOCYTES_PCT",
+        "result": "02",
+        "unit": "%",
+        "reference_range_low": "2",
+        "reference_range_high": "8",
+        "reference_display": "2-8 %",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Basophils %",
+        "loinc_concept": "BASOPHILS_PCT",
+        "result": "00",
+        "unit": "%",
+        "reference_range_low": "0",
+        "reference_range_high": "1",
+        "reference_display": "0-1 %",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Platelet Count",
+        "loinc_concept": "PLATELETS",
+        "result": "1.28",
+        "flag": "L",
+        "unit": "Lakhs/cmm",
+        "reference_range_low": "1.5",
+        "reference_range_high": "4.5",
+        "reference_display": "1.5-4.5 Lakhs/cmm",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "1.28 Lakhs = 128,000/cumm. Thrombocytopenia. Indian unit convention — 1 Lakh = 100,000. Platelets on Smear: Plateles (sic) reduced on Smear — confirms low count."
+      },
+      {
+        "test_name": "H.C.T. (Haematocrit)",
+        "loinc_concept": "HEMATOCRIT",
+        "result": "37.8",
+        "flag": "L",
+        "unit": "%",
+        "reference_range_low": "45",
+        "reference_range_high": "52",
+        "reference_display": "45-52 %",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Male reference range 45-52"
+      },
+      {
+        "test_name": "M.C.V.",
+        "loinc_concept": "MCV",
+        "result": "100.8",
+        "flag": "H",
+        "unit": "fl",
+        "reference_range_low": "84",
+        "reference_range_high": "96",
+        "reference_display": "84-96 fl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Macrocytosis"
+      },
+      {
+        "test_name": "M.C.H.",
+        "loinc_concept": "MCH",
+        "result": "32.53",
+        "flag": "H",
+        "unit": "pg",
+        "reference_range_low": "27",
+        "reference_range_high": "32",
+        "reference_display": "27-32 pg",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Borderline high"
+      },
+      {
+        "test_name": "M.C.H.C.",
+        "loinc_concept": "MCHC",
+        "result": "32.28",
+        "unit": "g/dl",
+        "reference_range_low": "30",
+        "reference_range_high": "36",
+        "reference_display": "30-36 g/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "R.D.W.",
+        "loinc_concept": "RDW",
+        "result": "16.9",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "10.0",
+        "reference_range_high": "15.0",
+        "reference_display": "10.0-15.0 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "M.P.V.",
+        "loinc_concept": "MPV",
+        "result": "7.8",
+        "unit": "%",
+        "reference_range_low": "6.5",
+        "reference_range_high": "11.0",
+        "reference_display": "6.5-11.0 %",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Unit printed as % on report — correct unit for MPV is fL. Likely a label error on this lab's report template."
+      },
+      {
+        "test_name": "Plateletcrit (PCT)",
+        "loinc_concept": "PCT",
+        "result": "0.110",
+        "unit": "%",
+        "reference_range_low": "0.100",
+        "reference_range_high": "0.500",
+        "reference_display": "0.100-0.500 %",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "RBC Morphology",
+        "loinc_concept": "RBC_MORPHOLOGY",
+        "result": "Normocytic Normochromic",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false
+      },
+      {
+        "test_name": "Platelets on Smear",
+        "loinc_concept": "PLATELETS_SMEAR",
+        "result": "Plateles reduced on Smear",
+        "unit": null,
+        "is_abnormal": true,
+        "notes": "Smear confirms thrombocytopenia"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Signed by Dr. D.P. Rajput, MBBS. Key clinical picture: elevated WBC (18700) + low platelets (1.28 Lakhs) + macrocytosis (MCV 100.8) + page 2 (GT-023) shows positive Widal test — consistent with typhoid fever with haematological complications. Same Patient ID 202504227 as GT-023. Lab note at bottom: correlation with clinical findings. Test for OCR: Indian Lakh unit system for platelets."
+  },
+  {
+    "file_id": "GT-023",
+    "file_name": "PUN-0425-PA-0011414_Lab_Report_27-04-2025_0949-24_PM_pdf_page_2.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Parth Pathology Laboratory",
+    "hospital": "Dr. Shree Parth Hospital, Banarsi Nagar, Hirawadi Panchavati, Nashik",
+    "report_section": "WIDAL TEST + MALARIA ANTIGEN",
+    "report_date": "COLLECTION: 22/04/2025; REPORTING: 22/04/2025",
+    "patient_id": "202504227",
+    "specimen": "Serum (Tube Agglutination for Widal)",
+    "findings": [
+      {
+        "test_name": "Salmonella typhi O (Widal)",
+        "loinc_concept": "WIDAL_TYPHI_O",
+        "result": "1:160",
+        "unit": null,
+        "reference_display": "Significant Titre 1:80 or More",
+        "is_abnormal": true,
+        "abnormal_direction": "POSITIVE",
+        "is_critical": true,
+        "notes": "Titre 1:160 — significantly elevated, twice the diagnostic threshold of 1:80. Positive for Salmonella typhi O antigen."
+      },
+      {
+        "test_name": "Salmonella Typhi H (Widal)",
+        "loinc_concept": "WIDAL_TYPHI_H",
+        "result": "1:120",
+        "unit": null,
+        "reference_display": "Significant Titre 1:80 or More",
+        "is_abnormal": true,
+        "abnormal_direction": "POSITIVE",
+        "is_critical": false,
+        "notes": "Titre 1:120 — elevated above diagnostic threshold of 1:80."
+      },
+      {
+        "test_name": "Salmonella paratyphi A-H (Widal)",
+        "loinc_concept": "WIDAL_PARATYPHI_AH",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "Significant Titre 1:80 or More",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Salmonella Paratyphi B-H (Widal)",
+        "loinc_concept": "WIDAL_PARATYPHI_BH",
+        "result": "NIL",
+        "unit": null,
+        "reference_display": "Significant Titre 1:80 or More",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Widal Conclusion",
+        "loinc_concept": "WIDAL_CONCLUSION",
+        "result": "WIDAL TEST IS POSITIVE",
+        "unit": null,
+        "is_abnormal": true,
+        "notes": "Lab-stated conclusion: WIDAL TEST IS POSITIVE"
+      },
+      {
+        "test_name": "P. Vivax Antigen (Malaria)",
+        "loinc_concept": "MALARIA_VIVAX_AG",
+        "result": "TEST IS NON REACTIVE",
+        "unit": null,
+        "reference_display": "NON REACTIVE",
+        "is_abnormal": false
+      },
+      {
+        "test_name": "P. Falci. Antigen (Malaria)",
+        "loinc_concept": "MALARIA_FALCIPARUM_AG",
+        "result": "TEST IS NON REACTIVE",
+        "unit": null,
+        "reference_display": "NON REACTIVE",
+        "is_abnormal": false
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Same patient (202504227) as GT-022. Positive Widal (S.Typhi O 1:160, H 1:120) + GT-022 shows thrombocytopenia + leukocytosis + macrocytosis = clinical picture consistent with typhoid fever. Malaria ruled out. Same printed caveats as GT-016 (Widal): titers may be false positive due to prior vaccination; 'O' agglutinins appear before 'H'; confirmed by tube technique. Signed by Dr. D.P. Rajput, MBBS, DCP. Page 2 of 7."
+  },
+  {
+    "file_id": "GT-024",
+    "file_name": "AHD-0425-PA-0007719_E-REPORTS_250427_2032_E_pdf_page_7.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Shree Diagnostic Centre (fully computerised pathological laboratory)",
+    "hospital": "Shree Hospital, Murbad Road, Kalyan (W) — IPD patient",
+    "report_section": "COMPLETE BLOOD COUNT — 5-PART DIFFERENTIAL + PLATELETS + ABSOLUTE COUNTS",
+    "report_date": "REDACTED (Collection time 12:47:26, Report Release 13:42:13)",
+    "referring_doctor": "Dr. BHAVESH CHAUHAN MD",
+    "sample_id": "10436879",
+    "specimen": "EDTA whole blood",
+    "equipment": "Mindray BC-700",
+    "findings": [
+      {
+        "test_name": "Haemoglobin",
+        "loinc_concept": "HEMOGLOBIN",
+        "result": "9.10",
+        "flag": "L",
+        "unit": "gm/dl",
+        "reference_range_low": "13.0",
+        "reference_range_high": "17.0",
+        "reference_display": "13.0-17.0 gm/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "Haemoglobin < 9 g/dl is considered critical at most labs. At 9.10 it is borderline critical."
+      },
+      {
+        "test_name": "Total R.B.C. Count",
+        "loinc_concept": "RBC",
+        "result": "3.19",
+        "flag": "L",
+        "unit": "mill/cmm",
+        "reference_range_low": "4.5",
+        "reference_range_high": "5.5",
+        "reference_display": "4.5-5.5 mill/cmm",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Haematocrit (PCV/HCT)",
+        "loinc_concept": "HEMATOCRIT",
+        "result": "27.20",
+        "flag": "L",
+        "unit": "%",
+        "reference_range_low": "40.0",
+        "reference_range_high": "50.0",
+        "reference_display": "40.0-50.0 %",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": true,
+        "notes": "HCT 27.2% is severely low — indicates significant anaemia"
+      },
+      {
+        "test_name": "Mean Corpuscular Volume (M.C.V.)",
+        "loinc_concept": "MCV",
+        "result": "85.30",
+        "unit": "fl",
+        "reference_range_low": "83.0",
+        "reference_range_high": "95.0",
+        "reference_display": "83.0-95.0 fl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mean Corpuscular Hb (M.C.H.)",
+        "loinc_concept": "MCH",
+        "result": "28.50",
+        "unit": "Pg",
+        "reference_range_low": "27.0",
+        "reference_range_high": "32.0",
+        "reference_display": "27.0-32.0 Pg",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Mean Corpuscular Hb Conc (M.C.H.C.)",
+        "loinc_concept": "MCHC",
+        "result": "33.50",
+        "unit": "g/dl",
+        "reference_range_low": "31.5",
+        "reference_range_high": "34.5",
+        "reference_display": "31.5-34.5 g/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Red Cell Distribution Width (R.D.W.-CV)",
+        "loinc_concept": "RDW",
+        "result": "16.5",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "11.6",
+        "reference_range_high": "14.6",
+        "reference_display": "11.6-14.6 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Parameter marked '# not under NABL scope' on report"
+      },
+      {
+        "test_name": "Total W.B.C. Count",
+        "loinc_concept": "WBC",
+        "result": "10560",
+        "flag": "H",
+        "unit": "/ul",
+        "reference_range_low": "4000",
+        "reference_range_high": "10000",
+        "reference_display": "4000-10000 /ul",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Borderline — 560 above upper limit"
+      },
+      {
+        "test_name": "Neutrophils %",
+        "loinc_concept": "NEUTROPHILS_PCT",
+        "result": "87.7",
+        "flag": "H",
+        "unit": "%",
+        "reference_range_low": "40",
+        "reference_range_high": "70",
+        "reference_display": "40-70 %",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Marked high neutrophilia — suggestive of bacterial infection"
+      },
+      {
+        "test_name": "Lymphocytes %",
+        "loinc_concept": "LYMPHOCYTES_PCT",
+        "result": "5.9",
+        "flag": "L",
+        "unit": "%",
+        "reference_range_low": "20",
+        "reference_range_high": "40",
+        "reference_display": "20-40 %",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Eosinophils %",
+        "loinc_concept": "EOSINOPHILS_PCT",
+        "result": "0.7",
+        "flag": "L",
+        "unit": "%",
+        "reference_range_low": "1",
+        "reference_range_high": "6",
+        "reference_display": "1-6 %",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Monocytes %",
+        "loinc_concept": "MONOCYTES_PCT",
+        "result": "5.5",
+        "unit": "%",
+        "reference_range_low": "2",
+        "reference_range_high": "10",
+        "reference_display": "2-10 %",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Basophils %",
+        "loinc_concept": "BASOPHILS_PCT",
+        "result": "0.2",
+        "unit": "%",
+        "reference_range_low": "0",
+        "reference_range_high": "1",
+        "reference_display": "0-1 %",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Platelet Count",
+        "loinc_concept": "PLATELETS",
+        "result": "370",
+        "unit": "/uL",
+        "reference_range_low": "150",
+        "reference_range_high": "450",
+        "reference_display": "150-450 /uL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "MPV (Mean Platelet Volume)",
+        "loinc_concept": "MPV",
+        "result": "9.4",
+        "unit": "fL",
+        "reference_range_low": "6.78",
+        "reference_range_high": "13.46",
+        "reference_display": "6.78-13.46 fL",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Marked '# not under NABL scope'"
+      },
+      {
+        "test_name": "Immature Platelet Fraction",
+        "loinc_concept": "IPF",
+        "result": "2.90",
+        "unit": "%",
+        "reference_range_low": "0",
+        "reference_range_high": "5",
+        "reference_display": "0-5 %",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Marked '# not under NABL scope'"
+      },
+      {
+        "test_name": "Neutrophils Absolute Count",
+        "loinc_concept": "ANC",
+        "result": "9261.12",
+        "flag": "H",
+        "unit": "/uL",
+        "reference_range_low": "1575",
+        "reference_range_high": "8800",
+        "reference_display": "1575-8800 /uL",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "Lymphocytes Absolute Count",
+        "loinc_concept": "ALC",
+        "result": "623.04",
+        "flag": "L",
+        "unit": "/uL",
+        "reference_range_low": "1125",
+        "reference_range_high": "4950",
+        "reference_display": "1125-4950 /uL",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false
+      },
+      {
+        "test_name": "Eosinophils Absolute Count",
+        "loinc_concept": "AEC",
+        "result": "73.92",
+        "unit": "/uL",
+        "reference_range_low": "0",
+        "reference_range_high": "400",
+        "reference_display": "0-400 /uL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Monocytes Absolute Count",
+        "loinc_concept": "AMC",
+        "result": "580.80",
+        "unit": "/uL",
+        "reference_range_low": "0",
+        "reference_range_high": "1000",
+        "reference_display": "0-1000 /uL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Basophils Absolute Count",
+        "loinc_concept": "ABC",
+        "result": "21.12",
+        "unit": "/uL",
+        "reference_range_low": "0",
+        "reference_range_high": "100",
+        "reference_display": "0-100 /uL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "NABL M(EL)T LABS certified. Same lab as GT-001 and GT-009 (Shree Diagnostic Centre). This is a 5-part differential CBC on Mindray BC-700. Key clinical picture: anaemia (Hb 9.1, HCT 27.2%) + neutrophilia (87.7%) + lymphopenia + elevated ANC + low ALC — pattern consistent with active bacterial infection. Page 1 of 4. Signed by Atul S. Vadhavkar (B.Sc Micro, DMLT) and Dr. A.J. Ranadive M.D. (Pathology). Parameters marked '#' are not under NABL scope."
+  },
+  {
+    "file_id": "GT-025",
+    "file_name": "BLR-0425-PA-0039930_E-BABY_OF_SIREESHA_BADVELU_2_250427_1048_E_pdf_page_8.png",
+    "group": "B",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Department of Blood Bank (hospital blood bank — institution not named on this page)",
+    "hospital": "REDACTED",
+    "report_section": "BLOOD GROUPING AND RH",
+    "report_date": "BILL DATE: 18-Apr-25 05:02 am; REPORT DATE: 18-Apr-25 09:22 am",
+    "patient": "STREESHA",
+    "admn_no": "REDACTED",
+    "service_no": "S1407900",
+    "ordered_by": "Dr. MAHESH A / GIRIDHAR YADHAV P",
+    "specimen": "Blood",
+    "findings": [
+      {
+        "test_name": "Blood Group",
+        "loinc_concept": "BLOOD_GROUP_ABO",
+        "result": "A",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false,
+        "notes": "Method: Slide Agglutination Method. Result: Blood Group A."
+      },
+      {
+        "test_name": "Rh (D) Typing",
+        "loinc_concept": "BLOOD_GROUP_RH",
+        "result": "Positive (+Ve)",
+        "unit": null,
+        "reference_range_low": null,
+        "reference_range_high": null,
+        "is_abnormal": false,
+        "notes": "Method: Slide Agglutination Method. Rh D Positive — A+ blood group."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Blood bank report — blood group and Rh typing only. No numeric values, no reference ranges — entirely qualitative. Tests OCR ability to handle very sparse structured reports. Patient is STREESHA (note file name references 'BABY_OF_SIREESHA_BADVELU_2' — patient may be the mother or neonate associated with this case). Printed by staff code 32101845 on 27-Apr-2025 10:46:40 AM. Pathologist signed (initials MK visible)."
+  },
+  {
+    "file_id": "GT-026",
+    "file_name": "BLR-0425-PA-0040326_Lab_Report_Sunita_27-04-2025_0131-15_PM_G_pdf_page_11.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Paridhi Pathology",
+    "hospital": "Udhran Hospital (referred from)",
+    "report_section": "BIOCHEMISTRY — LFT (LIVER FUNCTION TEST)",
+    "report_date": "REDACTED (REP. DATE field redacted)",
+    "patient": "SUNITA LAMBA",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "Total Bilirubin",
+        "loinc_concept": "BILIRUBIN_TOTAL",
+        "result": "1.8",
+        "flag": "H",
+        "unit": "mg/dl",
+        "reference_range_low": "0.4",
+        "reference_range_high": "1.0",
+        "reference_display": "0.4-1.0 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Marked with ↑ arrow on report"
+      },
+      {
+        "test_name": "Direct Bilirubin",
+        "loinc_concept": "BILIRUBIN_DIRECT",
+        "result": "1.0",
+        "flag": "H",
+        "unit": "mg/dl",
+        "reference_range_low": "0.1",
+        "reference_range_high": "0.5",
+        "reference_display": "0.1-0.5 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Marked with ↑ arrow on report"
+      },
+      {
+        "test_name": "Indirect Bilirubin",
+        "loinc_concept": "BILIRUBIN_INDIRECT",
+        "result": "0.80",
+        "unit": "mg/dl",
+        "reference_range_low": "0.2",
+        "reference_range_high": "0.8",
+        "reference_display": "0.2-0.8 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Borderline — exactly at upper limit of reference range"
+      },
+      {
+        "test_name": "Serum SGOT (AST)",
+        "loinc_concept": "AST",
+        "result": "74.0",
+        "flag": "H",
+        "unit": "IU/L",
+        "reference_range_low": "5",
+        "reference_range_high": "40",
+        "reference_display": "5-40 IU/L",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Marked with ↑ arrow. AST nearly double the upper limit."
+      },
+      {
+        "test_name": "Serum SGPT (ALT)",
+        "loinc_concept": "ALT",
+        "result": "89.0",
+        "flag": "H",
+        "unit": "IU/L",
+        "reference_range_low": "5",
+        "reference_range_high": "55",
+        "reference_display": "5-55 IU/L",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Marked with ↑ arrow. ALT significantly elevated — hepatocellular injury pattern."
+      },
+      {
+        "test_name": "Serum Total Protein",
+        "loinc_concept": "TOTAL_PROTEIN",
+        "result": "5.5",
+        "flag": "L",
+        "unit": "gm/dl",
+        "reference_range_low": "6.0",
+        "reference_range_high": "8.0",
+        "reference_display": "6.0-8.0 gm/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Marked with ↓ arrow on report"
+      },
+      {
+        "test_name": "Serum Albumin",
+        "loinc_concept": "ALBUMIN",
+        "result": "3.11",
+        "flag": "L",
+        "unit": "gm/dl",
+        "reference_range_low": "3.5",
+        "reference_range_high": "5.5",
+        "reference_display": "3.5-5.5 gm/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Marked with ↓ arrow on report — hypoalbuminaemia"
+      },
+      {
+        "test_name": "Serum Globulin",
+        "loinc_concept": "GLOBULIN",
+        "result": "2.39",
+        "unit": "gm/dl",
+        "reference_range_low": "2.0",
+        "reference_range_high": "4.0",
+        "reference_display": "2.0-4.0 gm/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "A/G Ratio",
+        "loinc_concept": "AG_RATIO",
+        "result": "1.30:1",
+        "unit": "RATIO",
+        "reference_range_low": "1.0",
+        "reference_range_high": "1.85",
+        "reference_display": "1.0-1.85",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Alkaline Phosphatase",
+        "loinc_concept": "ALP",
+        "result": "169",
+        "unit": "IU/L",
+        "reference_range_low": null,
+        "reference_range_high": "280",
+        "reference_display": "up to 280 IU/L",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Paridhi Pathology, Shiv Nagar, Khemnichak, Patna 800027. Signed by Dr. Sanjay Kumar MBBS, MD, Consultant Pathologist. Sample collection number: 7903714528. Key pattern: elevated AST+ALT (hepatitis), elevated bilirubin (jaundice), low albumin+total protein (hepatic synthetic dysfunction). Paridhi Pathology is at address near Raju Kirana. Not valid for Medico Legal Purpose. Tests extraction of mixed arrow-flag (↑↓) and numeric notation."
+  },
+  {
+    "file_id": "GT-027",
+    "file_name": "BLR-0425-PA-0040652_LAB_MERG_27-04-2025_1239-18_PM_E_pdf_page_2.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Srivalli Good Life Diagnostic Centre",
+    "hospital": "REDACTED (Outpatient — OP No: OP230420251)",
+    "report_section": "BIOCHEMISTRY — RENAL FUNCTION TEST (RFT) + LIVER FUNCTION TEST (LFT)",
+    "report_date": "PRINT DATE/TIME: REDACTED at 13:37:52",
+    "consulting_doctor": "DR VISHWABHARATH REDDY",
+    "specimen": "Serum",
+    "status": "Final",
+    "findings": [
+      {
+        "test_name": "Blood Urea — Urease",
+        "loinc_concept": "UREA",
+        "result": "22",
+        "unit": "mg/dl",
+        "reference_range_low": "10",
+        "reference_range_high": "45",
+        "reference_display": "10-45 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Serum Creatinine — Alkaline Picrate",
+        "loinc_concept": "CREATININE",
+        "result": "0.9",
+        "unit": "mg/dl",
+        "reference_range_low": "0.5",
+        "reference_range_high": "1.5",
+        "reference_display": "0.5-1.5 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Uric Acid — Alkaline Picrate",
+        "loinc_concept": "URIC_ACID",
+        "result": "6.5",
+        "unit": "mg/dl",
+        "reference_range_low": "3.5",
+        "reference_range_high": "6.5",
+        "reference_display": "3.5-6.5 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "At upper limit of reference range — borderline"
+      },
+      {
+        "test_name": "Random Blood Sugar",
+        "loinc_concept": "GLUCOSE_RANDOM",
+        "result": "92",
+        "unit": "mg/dl",
+        "reference_range_low": "60",
+        "reference_range_high": "160",
+        "reference_display": "60-160 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Total Bilirubin — Diazolized Sulphanilic Acid",
+        "loinc_concept": "BILIRUBIN_TOTAL",
+        "result": "1.2",
+        "unit": "mg/dl",
+        "reference_range_low": "0.2",
+        "reference_range_high": "1.1",
+        "reference_display": "0.2-1.1 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Marginally above upper limit of 1.1 mg/dl"
+      },
+      {
+        "test_name": "Direct Bilirubin — Diazolized Sulphanilic Acid",
+        "loinc_concept": "BILIRUBIN_DIRECT",
+        "result": "0.5",
+        "unit": "mg/dl",
+        "reference_range_low": "0",
+        "reference_range_high": "0.3",
+        "reference_display": "0-0.3 mg/dl",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false
+      },
+      {
+        "test_name": "Indirect Bilirubin — Calculated",
+        "loinc_concept": "BILIRUBIN_INDIRECT",
+        "result": "0.7",
+        "unit": "mg/dl",
+        "reference_range_low": "0",
+        "reference_range_high": "0.8",
+        "reference_display": "0-0.8 mg/dl",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "AST (SGOT) — IFCC",
+        "loinc_concept": "AST",
+        "result": "38",
+        "unit": "IU/L",
+        "reference_range_low": null,
+        "reference_range_high": "41",
+        "reference_display": "UP TO 41 IU/L",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Borderline — within range"
+      },
+      {
+        "test_name": "ALT (SGPT) — IFCC",
+        "loinc_concept": "ALT",
+        "result": "21",
+        "unit": "IU/L",
+        "reference_range_low": null,
+        "reference_range_high": "35",
+        "reference_display": "UPTO 35 IU/L",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Reference range column on original report shows '0.3 - 1.2UPTO 35' — this is likely a formatting artifact from multi-row overlap. Clinical reference for ALT IFCC UPTO 35 IU/L is standard."
+      },
+      {
+        "test_name": "ALP (Alkaline Phosphatase) — IFCC",
+        "loinc_concept": "ALP",
+        "result": "76",
+        "unit": "IU/L",
+        "reference_range_low": "53",
+        "reference_range_high": "141",
+        "reference_display": "Adults: 53-141 IU/L (age-specific ranges also printed: 1mo-9yr 82-383; 10-15yr 42-390; 16-18yr 52-171)",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Adult reference range 53-141 applies. Multiple age-specific ranges printed on report for paediatric guidance."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "MEDIUM",
+    "special_notes": "Srivalli Good Life Diagnostic Centre, Hanamkonda, Balasamudram Road (near New Bus Stand). Lab Incharge: Swathi (signature + LAB INCHARGE stamp). Address: Beside New Bus Stand, Balasamudram Road, Hanamkonda. Page 1. Suggested Clinical Correlation note at bottom. Minor formatting anomaly in ALT reference range column — see extraction notes. Key findings: mild elevated direct bilirubin and total bilirubin — possible early cholestasis."
+  },
+  {
+    "file_id": "GT-028",
+    "file_name": "DEL-0425-PA-0052315_F-labreport_250428_1029_G_pdf_page_6.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Deepam Hospitals (DEEPAM HOSPITAL & WELLNESS ENTERPRISES) — Cloud Clinical Laboratory",
+    "hospital": "Deepam Hospital (TBM), 327 Muthuranga Road, West Tambaram, Chennai 600045",
+    "report_section": "BIOCHEMISTRY — URIC ACID + MAGNESIUM + CALCIUM",
+    "report_date": "REDACTED",
+    "patient": "Mr. MOHIDEEN A.F",
+    "referring_doctor": "Dr. Arun Prasath MBBS., MD",
+    "referrer_institution": "VIDAL HEALTH (TTK)",
+    "sid_no": "01089581",
+    "specimen": "Serum",
+    "report_type": "Final Test Report",
+    "findings": [
+      {
+        "test_name": "Uric Acid — Uricase POD",
+        "loinc_concept": "URIC_ACID",
+        "result": "8.3",
+        "flag": "H",
+        "unit": "mg/dL",
+        "reference_range_low": "3.5",
+        "reference_range_high": "7.2",
+        "reference_display": "3.5-7.2 mg/dL",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Hyperuricaemia confirmed. Comments: Rechecked — lab re-ran test to verify elevated value."
+      },
+      {
+        "test_name": "Magnesium — Calmaglie method",
+        "loinc_concept": "MAGNESIUM",
+        "result": "1.6",
+        "unit": "mg/dL",
+        "reference_range_low": "1.3",
+        "reference_range_high": "2.5",
+        "reference_display": "1.3-2.5 mg/dL",
+        "is_abnormal": false,
+        "abnormal_direction": null
+      },
+      {
+        "test_name": "Calcium — Arsenazo III",
+        "loinc_concept": "CALCIUM",
+        "result": "8.6",
+        "unit": "mg/dL",
+        "reference_range_low": "8.6",
+        "reference_range_high": "10.2",
+        "reference_display": "8.6-10.2 mg/dL",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "At lower limit of reference range — borderline"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Powered by CCL (Cloud Clinical Laboratory), LAB Assist: +91 75500 75501. Corporate office: No 1, 1st Floor, Eraikutty Street, New Perumal. Signed by Dr. N. HEMAVATHY M.D. Pathology, Consultant Pathologist. Key finding: elevated uric acid 8.3 mg/dL (rechecked) — gout or hyperuricaemia. Minimal report — 3 tests only. Good for testing sparse biochemistry extraction."
+  },
+  {
+    "file_id": "GT-029",
+    "file_name": "GUR-0425-PA-0044765_Q-PURAVALLINVESTIGATIONREPORTANDXRAYREPORTANDVITALCHART_250428_1134_F_pdf_page_3.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Swastik Hospital (in-house laboratory)",
+    "hospital": "Swastik Hospital, Jhajjar Road, Bahadurgarh",
+    "report_section": "HAEMATOLOGY (ESR) + SEROLOGY (CRP QUANTITATIVE)",
+    "report_date": "REDACTED (Date field redacted; Srl No. 119)",
+    "specimen": "Blood / Serum",
+    "findings": [
+      {
+        "test_name": "ESR — Westergren's Method",
+        "loinc_concept": "ESR",
+        "result": "25",
+        "flag": "H",
+        "unit": "mm/1st hr",
+        "reference_range_low": "0",
+        "reference_range_high": "15",
+        "reference_display": "0-15 mm/1st hr",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Elevated ESR — non-specific marker of inflammation"
+      },
+      {
+        "test_name": "CRP (Quantitative) — Immunoturbidimetry",
+        "loinc_concept": "CRP",
+        "result": "26.9",
+        "flag": "H",
+        "unit": "mgm/L",
+        "reference_range_low": "0",
+        "reference_range_high": "8",
+        "reference_display": "0-8 mgm/L",
+        "is_abnormal": true,
+        "abnormal_direction": "HIGH",
+        "is_critical": false,
+        "notes": "Unit printed as 'mgm/L' — equivalent to mg/L. CRP 26.9 mg/L is significantly elevated. Interpretation note printed: 'In normal healthy individuals, CRP levels generally do not exceed 10 mgm/L.'"
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Same patient (Srl No. 119, Swastik Hospital) as GT-030. Both ESR and CRP elevated — consistent picture of systemic inflammation. Signed by Dr. Suryoshm Sharma MBBS, MS (HAS, FIAGES), General & Laparoscopic Surgeon (Reg. No. DMC: 48138) and Dr. Gunjan Nain MBBS, DMC No. 10211. Technician signature present. On panel: Haryana Government, Delhi Government, Delhi Jal Board, All TPA & Insurance. Note: unit is 'mgm/L' (non-standard notation for mg/L) — important test for unit normalisation pipeline."
+  },
+  {
+    "file_id": "GT-030",
+    "file_name": "GUR-0425-PA-0044765_Q-PURAVALLINVESTIGATIONREPORTANDXRAYREPORTANDVITALCHART_250428_1134_F_pdf_page_8.png",
+    "group": "A",
+    "document_type": "LAB_REPORT",
+    "lab_name": "Swastik Hospital (in-house laboratory)",
+    "hospital": "Swastik Hospital, Jhajjar Road, Bahadurgarh",
+    "report_section": "HAEMATOLOGY (SERUM VITAMIN B12) + SEROLOGY (VITAMIN D 25 HYDROXY — CLIA)",
+    "report_date": "REDACTED (Srl No. 119 — same patient as GT-029)",
+    "specimen": "Serum",
+    "findings": [
+      {
+        "test_name": "Serum Vitamin B12",
+        "loinc_concept": "VITAMIN_B12",
+        "result": "258.9",
+        "unit": "pg/ml",
+        "reference_range_low": "211.0",
+        "reference_range_high": "911.0",
+        "reference_display": "211.0-911.0 pg/ml",
+        "is_abnormal": false,
+        "abnormal_direction": null,
+        "notes": "Within reference range — towards lower half of normal"
+      },
+      {
+        "test_name": "Vitamin D 25-Hydroxy (CLIA)",
+        "loinc_concept": "VITAMIN_D",
+        "result": "14.0",
+        "flag": "L",
+        "unit": "ng/ml",
+        "reference_range_low": "30",
+        "reference_range_high": null,
+        "reference_display": "≥30 ng/ml",
+        "is_abnormal": true,
+        "abnormal_direction": "LOW",
+        "is_critical": false,
+        "notes": "Vitamin D deficiency (14.0 ng/ml). Deficiency is defined as <20 ng/ml; insufficiency as 20-29 ng/ml; sufficiency as ≥30 ng/ml. This patient is deficient. Expected value note printed: 'desirable concentration of vitamin D (25-OH) is ≥30 ng/ml (≥75 nmol/L)' per Vieth R et al., Am J Clin Nutr 2007;85:649-650."
+      }
+    ],
+    "extraction_confidence": "HIGH",
+    "ocr_difficulty": "EASY",
+    "special_notes": "Same patient as GT-029 (Srl No. 119, Swastik Hospital). Page 8 — companion page to GT-029 page 3. Combined clinical picture from both pages: elevated ESR + elevated CRP + Vitamin D deficiency — consistent with chronic inflammatory condition and possible nutritional deficiency. Both reports signed by Dr. Suryoshm Sharma and Dr. Gunjan Nain. Printed reference interpretation text states Vitamin D is acquired via sunlight or food and metabolised in liver. Note: unlike GT-008 (Lupin Vitamin B12 graphical chart), this Vitamin B12 is a standard numeric table — easy for OCR. Good contrast pair with GT-008 to test graphical vs numeric B12 extraction."
+  }
+]

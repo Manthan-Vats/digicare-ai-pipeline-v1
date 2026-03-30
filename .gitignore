@@ -1,0 +1,27 @@
+
+test_pipeline.py
+get_t5_ocr.py
+
+t5_ocr_full.txt
+output/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Environment variables
+.env
+.env.local
+.env.production
+*.env
+
+
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log
